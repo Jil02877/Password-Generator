@@ -11,3 +11,6 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 # Password-Generator
+I created using basic hooks useEffect,useRef,useCallback.
+I deploy using vite.
+Deploy link:- https://password-generator-1grg91g1g-patel-jils-projects-6bc73330.vercel.app/
